@@ -13,3 +13,5 @@ Usage is the following:
 > sudo python ICIP.py /dev/mem
 
 > sudo python ICIP.py /path/*
+
+Will tweak the website regex so that it includes potential protocols like https://, etc.
